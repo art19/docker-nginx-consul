@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --rm -t jihchi/nginx-consul:latest .
+docker build --rm -t art19/nginx-consul:latest .
