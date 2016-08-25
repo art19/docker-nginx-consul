@@ -5,7 +5,7 @@
 
 # Supported tags and respective Dockerfile links
 
-- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.11.1_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.11.1_0.14.0/Dockerfile)
+- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.11.3_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.11.3_0.14.0/Dockerfile)
 - [`stable`](https://github.com/art19/docker-nginx-consul/blob/stable/Dockerfile), [`1.10.0_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.10.0_0.14.0/Dockerfile)
 
 # Nginx with Consul Template
