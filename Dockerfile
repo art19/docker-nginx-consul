@@ -1,4 +1,4 @@
-FROM nginx:1.11.3
+FROM nginx:1.11.9
 MAINTAINER Keith Gable <keith@art19.com>
 
 RUN DEBIAN_FRONTEND=noninteractive \

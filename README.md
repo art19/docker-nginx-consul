@@ -1,11 +1,10 @@
 [![Build Status](https://travis-ci.org/art19/docker-nginx-consul.svg?branch=master)](https://travis-ci.org/art19/docker-nginx-consul)
-[![](https://badge.imagelayers.io/art19/nginx-consul.svg)](https://imagelayers.io/?images=art19/nginx-consul 'Get your own badge on imagelayers.io')
 [![Docker Stars](https://img.shields.io/docker/stars/art19/nginx-consul.svg)](https://hub.docker.com/r/art19/nginx-consul/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/art19/nginx-consul.svg)](https://hub.docker.com/r/art19/nginx-consul/)
 
 # Supported tags and respective Dockerfile links
 
-- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.11.3_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.11.3_0.14.0/Dockerfile)
+- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.11.9_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.11.9_0.14.0/Dockerfile)
 - [`stable`](https://github.com/art19/docker-nginx-consul/blob/stable/Dockerfile), [`1.10.0_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.10.0_0.14.0/Dockerfile)
 
 # Nginx with Consul Template
