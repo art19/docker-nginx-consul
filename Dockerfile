@@ -13,5 +13,5 @@ COPY nginx.service /etc/service/nginx/run
 COPY consul-template.service /etc/service/consul-template/run
 
 RUN mkdir /etc/consul-template && chmod +x /etc/service/nginx/run && chmod +x /etc/service/consul-template/run
-RUN mkdir /etc/consul-template/conf
+
 CMD ["/usr/bin/runsvdir", "/etc/service"]
