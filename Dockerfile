@@ -1,5 +1,5 @@
-FROM nginx:1.13.7
-MAINTAINER Keith Gable <keith@art19.com>
+FROM nginx:1.15.12
+MAINTAINER Keith Gable <keith@art19.com> James Jelinek <james@art19.com>
 
 RUN DEBIAN_FRONTEND=noninteractive \
     apt-get update -qq && \
