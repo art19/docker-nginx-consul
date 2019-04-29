@@ -4,7 +4,7 @@
 
 # Supported tags and respective Dockerfile links
 
-- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.13.7_0.14.0`](https://github.com/art19/docker-nginx-consul/blob/1.13.7_0.14.0/Dockerfile)
+- [`latest`](https://github.com/art19/docker-nginx-consul/blob/master/Dockerfile), [`1.15.12`](https://github.com/art19/docker-nginx-consul/blob/1.15.12/Dockerfile)
 
 # Nginx with Consul Template
 
